@@ -1,0 +1,7 @@
+Vehicle Inspection: Write a C++ program to inspect a vehicle's condition.
+The program should take the following inputs:
+• Tire Pressure (in pounds per square inch, psi)
+• Oil Level (in liters)
+• Brake Pad Thickness (in millimeters)
+Use logical operators to check if the vehicle's condition is satisfactory.
+If anyof the conditions are not met, display a warning message.

@@ -1,0 +1,4 @@
+Vehicle Inventory Management: Write a C++ program to manage aninventory of vehicles in a dealership.
+The program should use a vector tostore information about each vehicle,
+including its make, model, year, andprice. 
+The program should allow the user to add, remove, and display vehiclesin the inventory.

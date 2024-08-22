@@ -1,0 +1,7 @@
+Vehicle Maintenance Schedule: 
+Write a C++ program to generate a vehiclemaintenance schedule. 
+The program should take the following inputs:
+• Odometer Reading (in kilometers)
+• Maintenance Interval (in kilometers)
+Use a loop to calculate and display the next maintenance due date 
+and the number of maintenance checks required over a certain distance

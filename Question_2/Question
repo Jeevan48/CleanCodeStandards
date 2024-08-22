@@ -1,0 +1,1 @@
+Vehicle Identification Number (VIN) Validator: Write a C++ program tovalidate a Vehicle Identification Number (VIN). The program should take a VINas input and check if it is valid (i.e., 17 characters long and meets certainformatting rules). The character wise description of VAN is presented in thefigure below.

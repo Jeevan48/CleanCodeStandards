@@ -1,0 +1,5 @@
+Vehicle Drive Mode: Write a C++ program to simulate a vehicle's drivemode selection. 
+The program should take the following input:
+• Drive Mode (1-3, where 1=Eco, 2=Comfort, 3=Sport)
+Use a switch case statement to display the selected drive mode and 
+adjust the vehicle's parameters (fuel efficiency and acceleration) accordingly.
